@@ -4,16 +4,16 @@ Game Hall: Buscador de games
 Este projeto, desenvolvido durante a Imersão Dev da Alura com o Gemini, cria uma interface simples de busca para um catálogo de jogos.
 atualmente tem 4 jogos na pesquisa:
 
-Elden Ring
-Black Mith: Wukong
-Call of Duty Black Ops 6
-Fortnite
+Elden Ring,
+Black Mith: Wukong,
+Call of Duty Black Ops 6,
+Fortnite,
 
 **Tecnologias Utilizadas**
-HTML
-CSS
-JavaScript
-Gemini
+HTML,
+CSS,
+JavaScript,
+Gemini.
 
 **como funciona?**
 Basta pesquisar o jogo e ele dará uma descrição rapida e simples e um link para a pagina na Steam ou Epic (no caso do Fortnite).
